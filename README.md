@@ -1,4 +1,4 @@
-# Summer Science Institute 2024 at Auburn
+# Summer Science Institute 2025 at Auburn
 * Presented by the College of Sciences and Mathematics
 * Official website https://www.auburn.edu/cosam/outreach/stem_outreach/programs/SSI/index.htm
 
