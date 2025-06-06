@@ -127,6 +127,7 @@
 
   <section>
     <h4 class="r-fit-text">Experiments with weighted dices</h4>
+    <h4>(by Demographics)</h4>
   </section>
 
   <section>
@@ -135,27 +136,15 @@
   </section>
 
   <section>
-    <h4 class="r-fit-text">Mean and standard deviation</h4>
-  </section>
-
-  <section>
-    <!-- <h4>Mean and standard deviation</h4> -->
+    <h4>Mean and standard deviation</h4>
     <video class="SimulationVideo" controls data-autoplay data-src="./videos/Mean_Variance.mp4"></video>
     <p class="source">Video created by <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a></p>
   </section>
 
   <section>
-    <h4 class="r-fit-text">General ideas of CLT</h4>
-  </section>
-
-  <section>
+    <h4>General ideas of CLT</h4>
     <video class="SimulationVideo" controls data-autoplay data-src="./videos/General_Idea_CLT.mp4"></video>
     <p class="source">Video created by <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a></p>
-  </section>
-
-  <section>
-    <h4>Large N</h4>
-    <h4>Independent of underlying details</h4>
   </section>
 
   <section>
@@ -164,11 +153,7 @@
   </section>
 
   <section>
-    <h4 r-fit-text>Assumptions for CLT</h4>
-  </section>
-
-  <section>
-    <!-- <h4>Assumptions for CLT</h4> -->
+    <h4>Assumptions for CLT</h4>
     <video class="SimulationVideo" controls data-autoplay data-src="./videos/Assumptions_CLT.mp4"></video>
     <p class="source">Video created by <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a></p>
   </section>
