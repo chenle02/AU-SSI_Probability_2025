@@ -7,7 +7,9 @@
 * Abstract:
 ```
 
-In this captivating module, we explore the fascinating and important role of randomness in everyday life. Students will explore a simulation of the surface growth model and relate it with real-life phenomenon.
+In this captivating module, we explore the fascinating and important role of
+randomness in everyday life. Students will explore a simulation of the surface
+growth model and relate it with real-life phenomenon.
 
 ```
 * Classroom: SCA Auditorium.
