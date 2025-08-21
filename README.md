@@ -1,3 +1,6 @@
+
+![How do surfaces grow](./docs_2025/images/AU_SSI_2025.png)
+
 # Summer Science Institute 2025 at Auburn
 * Presented by [Le Chen](http://webhome.auburn.edu/~lzc0090/index.html) from the College of Sciences and Mathematics, Auburn University.
 * Official website [here](https://www.auburn.edu/cosam/outreach/stem_outreach/programs/SSI/index.htm) 
