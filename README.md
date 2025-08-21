@@ -22,12 +22,12 @@ growth model and relate it with real-life phenomenon.
 
 Here is a group photo from our session:
 
-![Group Photo](./images/20250606_130715_Group.JPEG)
+![Group Photo](docs_2025/images/20250606_130715_Group.JPEG)
 
 ## Documents
 
-- [Thank You Card](./SSI_2025_Thank_You_Card.pdf): A thank you card from the students.
-- [Program Summary](./SSI_Program_Summary_2025.pdf): A summary of the 2025 SSI program.
+- [Thank You Card](docs_2025/SSI_2025_Thank_You_Card.pdf): A thank you card from the students.
+- [Program Summary](docs_2025/SSI_Program_Summary_2025.pdf): A summary of the 2025 SSI program.
 
 ## Viewing the Slides
 Open `index.html` in your browser or run `python -m http.server` and navigate to `http://localhost:8000` to view the presentation locally.
