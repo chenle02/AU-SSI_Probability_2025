@@ -18,6 +18,17 @@ growth model and relate it with real-life phenomenon.
 * Date and Time: June 6th, Friday, 2025, from 11:30AM --12:00PM
 * Presentation is available [here](https://chenle02.github.io/AU-SSI_Probability_2025/#/).
 
+## Group Photo
+
+Here is a group photo from our session:
+
+![Group Photo](./images/20250606_130715_Group.JPEG)
+
+## Documents
+
+- [Thank You Card](./SSI_2025_Thank_You_Card.pdf): A thank you card from the students.
+- [Program Summary](./SSI_Program_Summary_2025.pdf): A summary of the 2025 SSI program.
+
 ## Viewing the Slides
 Open `index.html` in your browser or run `python -m http.server` and navigate to `http://localhost:8000` to view the presentation locally.
 
